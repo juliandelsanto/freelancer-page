@@ -81,7 +81,7 @@ h3 {
 }
 .hero::after {
     content: '';
-    background-color: rgba(0,0,0,.9);
+    background-color: rgba(0,0,0,.7);
     display: block;
     top: 0;
     left: 0;
